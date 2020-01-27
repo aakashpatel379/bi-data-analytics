@@ -39,7 +39,7 @@ console.
 
 **Figure 1: Semantic Analysis Script Output**
 
-<img src="semantic_analytics_output.png" width=400/>
+<img src="semantic_analytics_output.png" width=600/>
 
 ### C. Business Intelligence:
 
@@ -65,51 +65,51 @@ Below dimensions were used for School data:
 
 Following are the fact and dimension tables taken into consideration:
 
-**Figure 1: Vehicle Sales Data Fact Table**
+**Figure 2: Vehicle Sales Data Fact Table**
 
 <img src="Vehicle_sales_attributes.JPG" width=400/>
 
-**Figure 2: Vehicle Sales Dimension Tables (with all attributes)**
+**Figure 3: Vehicle Sales Dimension Tables (with all attributes)**
 
 <img src="vehicle_sales_dimension_tables.jpg" width=400/>
 
-**Figure 3: School Board Expense Data Fact Table**
+**Figure 4: School Board Expense Data Fact Table**
 
 <img src="school_board_data_fact_table.jpg" width=400/>
 
-**Figure 4: School Expenses Dimensions Table (with all attributes)**
+**Figure 5: School Expenses Dimensions Table (with all attributes)**
 
 <img src="school_expenses_attributes.JPG" width=400/>
 
 Navigation Paths hierarchies:
 
-**Figure 5: Navigation Path hierachy for School**
+**Figure 6: Navigation Path hierachy for School**
 
 <img src="Navigation_paths_school.JPG" width=400/>
 
-**Figure 6 Navigation Path Attribute hierarchy of Vehicular Data**
+**Figure 7: Navigation Path Attribute hierarchy of Vehicular Data**
 
 <img src="Navigation_paths_vehicle.JPG" width=400/>
 
 ### Data Warehouse design schemas:
 
-**Figure 7: Vehicle Warehouse star schema**
+**Figure 8: Vehicle Warehouse star schema**
 
-<img src="semantic_analytics_output.png" width=400/>
+<img src="Star_vehicle_schema.JPG" width=400/>
 
-**Figure 8: School Warehouse star schema**
+**Figure 9: School Warehouse star schema**
 
-<img src="semantic_analytics_output.png" width=400/>
+<img src="Star_school_schema.JPG" width=400/>
 
 ### Cognos BI reports:
 
-**Figure 9: Vehicle Yearly Sales for various Vehicle types**
+**Figure 10: Vehicle Yearly Sales for various Vehicle types**
 
-<img src="semantic_analytics_output.png" width=400/>
+<img src="Vehicle_Visualization.JPG" width=4600/>
 
-**Figure 10: School Board Yearly Expenses for different expenditure functions**
+**Figure 11: School Board Yearly Expenses for different expenditure functions**
 
-<img src="semantic_analytics_output.png" width=400/>
+<img src="SchoolBoard_Expense_visualization.JPG" width=600/>
 
 - Using the BI framework following questions can be answered:
 
