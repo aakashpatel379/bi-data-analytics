@@ -67,29 +67,29 @@ Following are the fact and dimension tables taken into consideration:
 
 **Figure 2: Vehicle Sales Data Fact Table**
 
-<img src="Vehicle_sales_attributes.JPG" width=400/>
+<img src="Vehicle_sales_attributes.JPG" width=300/>
 
 **Figure 3: Vehicle Sales Dimension Tables (with all attributes)**
 
-<img src="vehicle_sales_dimension_tables.jpg" width=400/>
+<img src="vehicle_sales_dimension_tables.jpg" width=300/>
 
 **Figure 4: School Board Expense Data Fact Table**
 
-<img src="school_board_data_fact_table.jpg" width=400/>
+<img src="school_board_data_fact_table.jpg" width=300/>
 
 **Figure 5: School Expenses Dimensions Table (with all attributes)**
 
-<img src="school_expenses_attributes.JPG" width=400/>
+<img src="school_expenses_attributes.JPG" width=300/>
 
 Navigation Paths hierarchies:
 
 **Figure 6: Navigation Path hierachy for School**
 
-<img src="Navigation_paths_school.JPG" width=400/>
+<img src="Navigation_paths_school.JPG" width=300/>
 
 **Figure 7: Navigation Path Attribute hierarchy of Vehicular Data**
 
-<img src="Navigation_paths_vehicle.JPG" width=400/>
+<img src="Navigation_paths_vehicle.JPG" width=300/>
 
 ### Data Warehouse design schemas:
 
@@ -105,11 +105,11 @@ Navigation Paths hierarchies:
 
 **Figure 10: Vehicle Yearly Sales for various Vehicle types**
 
-<img src="Vehicle_Visualization.JPG" width=4600/>
+<img src="Vehicle_Visualization.JPG" width=600/>
 
 **Figure 11: School Board Yearly Expenses for different expenditure functions**
 
-<img src="SchoolBoard_Expense_visualization.JPG" width=600/>
+<img src="SchoolBoard_Expense_visualization.JPG" width=650/>
 
 - Using the BI framework following questions can be answered:
 
